@@ -11,7 +11,7 @@ Static HTML5/CSS3
 
 
 ### Requirements:
-* A possitive mindset
+* A positive mindset
 > We are taking part in creating the greatest equalizer in human history.
 > **The Internet**
  
