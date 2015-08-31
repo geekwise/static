@@ -45,10 +45,10 @@ The outcome is to learn the basic 10 tags you will use when creating a static HT
 
 -- 
 
-These 10 HTML Tags will help you format and orgainze information for the Internet.
+These 10 HTML Tags will help you format and organize information for the Internet.
 Even though it looks like a lot to learn, they are easy to remember and they all work the same way.
 
-#Assetment 1:
+#Assessment 1:
 
 - 1: Setup Google Account For *Just* This Course
  - `email name: geekwise.firstName.LastName@gmail.com`
@@ -81,6 +81,7 @@ Yes it's kinda lame, but that's how development is.
 A "simple" website can be filled with thousands of lines of code.
 Code is made of tiny things that can have large consequences.
 Like, say, a single misplaced *semicolon* `;`
+Or a *forward slash* `/`
 
 ---
 
