@@ -23,7 +23,7 @@ Static HTML5/CSS3
 # 10 HTML tags
 
 ### Goal:
-> Ability to sructure information for the Internet.
+> Ability to structure information for the Internet.
 
 The outcome is to learn the basic 10 tags you will use when creating a static HTML file.
 
